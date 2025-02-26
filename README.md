@@ -11,10 +11,8 @@ I'm Rae, a computer science student on my coding journey.
 ---
 
 ### 🌱 Currently Learning:
-- Python fundamentals  
-- Basic data structures and algorithms  
-- How Git and GitHub work to manage and share my projects  
-
+- Data Structures, Algorithms, and Their Applications Within Computer Systems.
+- Object Oriented Design Merged.
 ### 🎯 My Goals:
 - Build small projects to practice coding skills  
 - Get a basic grasp of Git and GitHub to start contributing to the community  
