@@ -11,15 +11,17 @@ I'm Rae, a computer science student on my coding journey.
 ---
 
 ### 🌱 Currently Learning:
-- Data Structures, Algorithms, and Their Applications Within Computer Systems.
-- Object Oriented Design Merged.
+- Database Management Systems (SQL, MongoDB, transaction processing)  
+- Advanced Algorithms and Data Structures  
+- Full-stack Web Development with React, Node.js, and MongoDB
+
 ### 🎯 My Goals:
-- Build small projects to practice coding skills  
-- Get a basic grasp of Git and GitHub to start contributing to the community  
-- Contribute to open-source projects in the near future  
+- Build and document academic and personal projects in Python, Java, and full-stack web development  
+- Explore the intersection of **Generative AI** and creativity (e.g., Adobe Photoshop, AI-assisted design tools)  
+- Contribute to open-source and collaborative projects in the near future   
 
 ### 📫 Connect with Me:
-- LinkedIn: [https://www.linkedin.com/in/junrui-ding-8a7513248?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app](http://linkedin.com/in/junrui-ding-8a7513248)
+- LinkedIn: https://www.linkedin.com/in/junrui-ding-8a7513248/
 - Email: ruibantian812@gmail.com
 
 ---
